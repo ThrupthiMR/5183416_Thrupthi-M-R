@@ -2,6 +2,5 @@
 
 <img src="https://raw.githubusercontent.com/ThrupthiMR/5183416_Thrupthi-M-R/main/SDCL/Agile%20for%20beginners.png" alt="image" width="500"/>
 
-
-
+<img src="https://raw.githubusercontent.com/ThrupthiMR/5183416_Thrupthi-M-R/main/Git/Git%20Training.jpg" alt="Git Training" width="500"/>
 
